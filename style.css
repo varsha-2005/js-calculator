@@ -18,9 +18,10 @@ body {
 }
 
 #display {
-    width: 100%;
+    width: 90%;
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-right: 30px;
     font-size: 2rem;
     text-align: right;
     background-color: #2b2b2b;
